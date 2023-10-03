@@ -1,2 +1,2 @@
 # weidong.github.io
-This is my portforlio.
+This is my portfolio.
